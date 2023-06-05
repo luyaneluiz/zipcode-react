@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ZipcodeFinder-React/static/css/main.2e3e50df.css",
-    "main.js": "/ZipcodeFinder-React/static/js/main.d2f2cf9d.js",
-    "static/media/logo-expanded.png": "/ZipcodeFinder-React/static/media/logo-expanded.f55b9214d810a920bfee.png",
-    "index.html": "/ZipcodeFinder-React/index.html",
-    "main.2e3e50df.css.map": "/ZipcodeFinder-React/static/css/main.2e3e50df.css.map",
-    "main.d2f2cf9d.js.map": "/ZipcodeFinder-React/static/js/main.d2f2cf9d.js.map"
+    "main.css": "/zipcode-react/static/css/main.2e3e50df.css",
+    "main.js": "/zipcode-react/static/js/main.fe31bbfa.js",
+    "static/media/logo-expanded.png": "/zipcode-react/static/media/logo-expanded.f55b9214d810a920bfee.png",
+    "index.html": "/zipcode-react/index.html",
+    "main.2e3e50df.css.map": "/zipcode-react/static/css/main.2e3e50df.css.map",
+    "main.fe31bbfa.js.map": "/zipcode-react/static/js/main.fe31bbfa.js.map"
   },
   "entrypoints": [
     "static/css/main.2e3e50df.css",
-    "static/js/main.d2f2cf9d.js"
+    "static/js/main.fe31bbfa.js"
   ]
 }

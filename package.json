@@ -1,7 +1,7 @@
 {
   "name": "buscador",
   "version": "0.1.0",
-  "homepage": "https://luyaneluiz.github.io/ZipcodeFinder-React",
+  "homepage": "https://luyaneluiz.github.io/zipcode-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

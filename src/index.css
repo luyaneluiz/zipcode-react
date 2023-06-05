@@ -1,0 +1,73 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: #000c21;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+}
+
+.containerLogo {
+  height: 150px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.containerLogo img {
+  height: 200%;
+  filter: invert(1);
+}
+
+.containerCard {
+  position: relative;
+}
+
+.containerCard input {
+  height: 30px;
+  width: 300px;
+  padding: 5px 18px;
+  border-radius: 20px;
+  background-color: #333339bf;
+  border: 1px solid #ffffff1f;
+  color: white;
+}
+
+.containerCard button {
+  position: absolute;
+  right: 5px;
+  top: 0;
+  height: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.containerData {
+  margin-top: 40px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffffcf;
+}
+
+.containerData span {
+  padding: 5px 0;
+}
